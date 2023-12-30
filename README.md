@@ -1,5 +1,6 @@
 # millets-pro
-![web-interface](https://github.com/abhilash-mukherjee/millets-pro/assets/84319482/2c3cc7ee-34d3-4aa3-9a51-a9b2e1029e77)
+![web-interface](https://github.com/abhilash-mukherjee/millets-pro/assets/84319482/a1648c59-dc1b-4943-9140-ccefab6cf4ac)
+
 <br></br>
 An online platform to do quality analysis of millets
 This is my Term Project which is an online platform where you can upload the image of a millet sample and get its quality score in return.
